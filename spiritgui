@@ -1,0 +1,6 @@
+LOCK
+HITCHANCE:"100%"  "HumanoidRootPart","Head","UpperTorso","LowerTorso"
+AutoPred= "true"
+antilockkey= "Q"
+    end
+end
